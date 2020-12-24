@@ -1,7 +1,7 @@
-import "./App.css";
+import Intro from "./pages";
 
 function App() {
-  return <p>Home</p>;
+  return <Intro />;
 }
 
 export default App;
